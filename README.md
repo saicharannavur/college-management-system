@@ -56,9 +56,6 @@ Thanks !
 * Faculty userid  : Faculty id
 * Student Userid  : cource-sem-rollnumber (IT-1-1001)        
 
-## Youtube Demo
-
-[<img src="screenshots/homepage.png" />](https://youtu.be/0Fik73ZznG0)
 
 ## Screenshots
 
